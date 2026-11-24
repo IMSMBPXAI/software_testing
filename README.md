@@ -6,7 +6,7 @@ for subject SOFTWARE TESTING 2/2026
 ---
 
 ### WORK 2 (23/11/2026)
-> [LINK](https://docs.google.com/spreadsheets/d/1YeRQe2XnzSe2_zXn6VsFZrO4-R8I0vIG3lN9MCni_IA/edit?usp=sharing )
+> [LINK GOOGLE SHEET](https://docs.google.com/spreadsheets/d/1YeRQe2XnzSe2_zXn6VsFZrO4-R8I0vIG3lN9MCni_IA/edit?usp=sharing )
 
 
 # Test Cases: Lab 2 GradeCalculator
